@@ -29,6 +29,26 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 790,
+      "category": "animal welfare",
+      "title": "test1",
+      "description": "testing1",
+      "location": "SPS",
+      "date": "13 August 2021",
+      "time": "15:00",
+      "organizer": ""
+    },
+    {
+      "id": "a914a8a8-eab3-4648-ad1d-c10bd2ae52ad",
+      "category": "food",
+      "title": "test2",
+      "description": "testing2",
+      "location": "TLA",
+      "date": "19 August, 2021",
+      "time": "15:00",
+      "organizer": "Rafael Mejia"
     }
   ]
 }
