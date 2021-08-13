@@ -49,6 +49,26 @@
       "date": "19 August, 2021",
       "time": "15:00",
       "organizer": "Rafael Mejia"
+    },
+    {
+      "id": "3240cc41-a58a-4334-bbaf-099eb341dad6",
+      "category": "education",
+      "title": "test3",
+      "description": "testing3",
+      "location": "SRC",
+      "date": "15 August, 2021",
+      "time": "16:00",
+      "organizer": "Rafael Mejia"
+    },
+    {
+      "id": "5df3e138-2564-4c13-9db4-ac665fd81244",
+      "category": "community",
+      "title": "test4",
+      "description": "testing4",
+      "location": "CBA",
+      "date": "20 August, 2021",
+      "time": "21:00",
+      "organizer": "Rafael Mejia"
     }
   ]
 }
