@@ -69,6 +69,26 @@
       "date": "20 August, 2021",
       "time": "21:00",
       "organizer": "Rafael Mejia"
+    },
+    {
+      "id": "a1420dfd-3922-4805-92c9-29f7ea6f1943",
+      "category": "education",
+      "title": "test8",
+      "description": "testing8",
+      "location": "Choloma",
+      "date": "15/09/2021",
+      "time": "15:00",
+      "organizer": "Rafael Mejia"
+    },
+    {
+      "id": "2b352767-c1c1-4161-a951-06a6e91a9a35",
+      "category": "animal welfare",
+      "title": "test5",
+      "description": "testing5",
+      "location": "CBA",
+      "date": "16/08/2021",
+      "time": "16:00",
+      "organizer": "Rafael Mejia"
     }
   ]
 }
